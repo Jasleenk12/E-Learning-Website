@@ -1,0 +1,11 @@
+html {
+    scroll-behavior:smooth;
+}
+#bookimg{
+    background-image: url(https://images7.alphacoders.com/133/thumb-1920-1338193.png);
+    min-height: 100vh;
+    width:100%;
+    background-position:center;
+    background-size:cover;
+    position: relative;
+}
